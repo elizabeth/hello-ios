@@ -1,2 +1,2 @@
 # hello-ios
-INFO 498 iOS Assignment 1
+go dawgs
